@@ -3,6 +3,8 @@ Analysis of the trend in median US home values by state, between the years 2000 
 
 Select year ranges chosen based on significant market/value change. Median values and percent change from 2000-2007, 2007-2010, 2010-2017, and 2017-2022.
 
-Current year (2022) median household income to home price ratios, by state.
+Includes current year (2022) median household income to home price ratios, by state.
+
+Data source: https://www.zillow.com/research/data/
 
 
