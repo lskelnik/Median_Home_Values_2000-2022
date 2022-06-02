@@ -6,5 +6,6 @@ Select year ranges chosen based on significant market/value change. Median value
 Includes current year (2022) median household income to home price ratios, by state.
 
 Data sources: https://www.zillow.com/research/data/
+
               https://www.census.gov/
 
